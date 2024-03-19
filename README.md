@@ -1,5 +1,4 @@
 # Post Listing App
-![Screenshot 1](screenshots/playto1.png)
 
 The Post Listing App is a simple web application built with React.js that allows users to browse a list of posts fetched from the JSONPlaceholder API. It provides a user-friendly interface for searching and viewing posts based on their titles.
 
