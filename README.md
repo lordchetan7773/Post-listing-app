@@ -24,11 +24,3 @@ The Post Listing App is a simple web application built with React.js that allows
 3. Install dependencies using `npm install`.
 4. Run the development server using `npm start`.
 5. Access the application in your web browser at `http://localhost:3000`.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
